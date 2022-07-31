@@ -1,9 +1,9 @@
 admins: MrSoRoSH
 forwards:
-- source: naftonline
+- source: https://t.me/naftonline
   dest:
   - https://t.me/nidcir
-  offset: 28
+  offset: 0
   end: 0
 show_forwarded_from: false
 live:
