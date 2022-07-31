@@ -1,8 +1,8 @@
-admins: MrSoRoSH
+admins: [MrSoRoSH]
 forwards:
-- source: https://t.me/naftonline
+- source: MyAsriran
   dest:
-  - https://t.me/nidcir
+  - nidcir
   offset: 0
   end: 0
 show_forwarded_from: false
