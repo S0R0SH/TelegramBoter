@@ -1,9 +1,14 @@
-admins: []
+admins: [MrSoRoSH]
 forwards:
-- source: tg_cf
+- source: naftonline
   dest:
-  - me
+  - https://t.me/nidcir
   offset: 28
+  end: 0
+- source: t.me/MyAsriran
+  dest: 
+  https://t.me/nidcir
+  offset: 0
   end: 0
 show_forwarded_from: false
 live:
